@@ -4,4 +4,4 @@
 - git status                 (mostra o status do qur foi alterado na pasta)
 - git diff                   (mostra as diferenças no arquivo desde a ultima modificação)
 - git log
-- git branch                 (mostra em qual seção eu estou)
+- git branch                 (mostra em qual ramo eu estou)
