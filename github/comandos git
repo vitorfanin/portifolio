@@ -1,6 +1,6 @@
 - git init
-- git commit    (cria um commit)
+- git commit -m "mensagem"   (cria um commit)
 - git add .
-- git status    (mostra o status do qur foi alterado na pasta)
-- git diff      (mostra as diferenças no arquivo desde a ultima modificação)
+- git status                 (mostra o status do qur foi alterado na pasta)
+- git diff                   (mostra as diferenças no arquivo desde a ultima modificação)
 - git log
